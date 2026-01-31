@@ -1,3 +1,3 @@
 #Vezba
 
-Vezbanje pandas paketa u pythonu
+Vezbanje pandas paketa u pythonu!
